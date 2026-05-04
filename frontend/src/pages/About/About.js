@@ -16,10 +16,8 @@ export default function About() {
                     <h4>Team members</h4>
                     <p className="about-content">
                         
-                            <ol>Vishal K</ol>
-                            <ol>Neeraj G K</ol>
-                            <ol>Vishwas J S</ol>
-                            <ol>Ravi R V</ol>
+                            <ol>Jiya Agnihotri</ol>
+                            <ol>Laviza Munjal</ol>
                     </p>
                     
                 </div>
